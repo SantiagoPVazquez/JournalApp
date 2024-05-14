@@ -5,7 +5,7 @@ export const AuthLayout = ({children, title=''}) => {
     <>
     
 
-    <Grid 
+    <Grid
         container
         spacing={ 0 }
         direction='column'
